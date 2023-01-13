@@ -1,0 +1,53 @@
+#main{
+    background-color: 808080;
+    margin: 30px 0;
+    font font-family: sans-serif;
+    text-align: center;
+}
+
+#title{
+    font-size: medium;
+    padding-top: 50px;
+}
+
+#img-div{background-color: ghostwhite;
+    margin:;
+    padding: ;
+}
+
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    max-width: 100%;
+    height: auto;
+}
+
+#tribute-info{
+    width: 70% ;
+    margin: auto ;
+}
+
+@media (max-width: 750px ){
+    #tribute-info{
+        width: 100%;
+    }
+}
+#tribute-info: not (h3){
+    text-align: left;
+    line-height: 1.5 rem;
+}
+
+h3, ul{
+    margin-bottom: 40px;
+}
+
+ul li strong{
+    font-weight: 600;
+}
+
+footer{
+    padding: 5px;
+    line-height: 1.5rem;
+}
