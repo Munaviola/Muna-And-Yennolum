@@ -1,5 +1,4 @@
 #main{
-<<<<<<< HEAD
     background-color: 808080;
     margin: 30px 0;
     font font-family: sans-serif;
@@ -51,31 +50,4 @@ ul li strong{
 footer{
     padding: 5px;
     line-height: 1.5rem;
-=======
-    background-color: #eee;
-    padding:10px;
-    border-radius: 10px;
-    margin: 30px 10px
-}
-
-#title{
-    text-align: center;
-}
-
-p{
-    text-align: center;
-}
-
-img{
-    display: block;
-}
-
-#img-div{
-    background: white;
-    padding: 10px;
-    margin: 0%;
-    #image{
-        display: block;
-    }
->>>>>>> 070212fa94f18052da022d3ddcc68cb1e75e19b4
 }
